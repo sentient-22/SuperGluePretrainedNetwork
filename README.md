@@ -328,6 +328,15 @@ For training and validation of the outdoor model, we used scenes from the [MegaD
 
 ### A note on reproducibility
 
+Invoking the simulation environment
+
+```
+source install_library.sh 
+knowledge -> [source/bash is */_]
+
+```
+
+
 <details>
   <summary>[Click to expand]</summary>
 
